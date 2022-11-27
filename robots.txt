@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:http://acropolisanimation.gr/wp-content/exploitsports/sitemap.xml
